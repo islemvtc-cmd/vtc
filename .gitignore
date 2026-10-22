@@ -1,0 +1,11 @@
+/config/database.php
+/config/installed.lock
+/.env
+/.env.*
+!/.env.example
+/private/*
+!/private/.htaccess
+/logs/
+*.zip
+*.sql
+*.sql.gz
